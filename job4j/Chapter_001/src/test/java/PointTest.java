@@ -1,7 +1,5 @@
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
-
-
 import ru.kibis.dataTypes.condition.Point;
 
 public class PointTest {
